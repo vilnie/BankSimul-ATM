@@ -18,37 +18,39 @@ Installation
 
 To install the ATM Simulator, follow these steps:
 
-    Clone the repository:
-
-bash
+Clone the repository:
 
 git clone https://github.com/username/repo-name.git
 
     Install the required dependencies:
 
-    MySQL server
-    Qt Creator
+    MySQL server (Uni Server)
+    Qt Creator (QSerial might not work every Qt version)
     JavaScript
+    Postman/SQLworkbench
+    Node.js
 
     Set up the MySQL database:
 
-    Create a database named atm_simulator
-    Import the database schema from the database-schema.sql file
+    Create a database named my_db
+    
+    Import the database schema from the dbdump.sql file
 
     Start the application:
 
-    Run the frontend.exe file
+    Run the frontend.exe file in Qt Creator
 
 Usage
 
 To use the ATM Simulator, follow these steps:
 
-    Insert your card into the card reader
+    Insert your card into the card reader. You can bypass this by modifying frontend code.
     Enter your PIN code
+    Select the bank account
     Select the desired transaction (e.g., withdraw money)
     Enter the transaction amount
     Wait for the transaction to complete
-    Remove your card from the card reader
+    Wait for automatic log out
 
 Contributing
 
