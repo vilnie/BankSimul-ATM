@@ -53,7 +53,12 @@ To use the ATM Simulator, follow these steps:
 
 # images
 
+ER-Diagram
 <img src="er-diagram.png">
+
+State Diagram
+<img src="State Diagram.png">
+
 
 # Contributing
 
