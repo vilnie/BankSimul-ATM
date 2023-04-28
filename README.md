@@ -14,7 +14,7 @@ The ATM Simulator offers the following features:
     User login/logout
     Serial port communication
 
-Installation
+ # Installation
 
 To install the ATM Simulator, follow these steps:
 
