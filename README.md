@@ -26,7 +26,7 @@ git clone https://github.com/username/repo-name.git
 
     MySQL server (Uni Server)
     Qt Creator (QSerial might not work every Qt version)
-    IDE for JavaScript code
+    IDE for backend code
     Postman/SQLworkbench
     Node.js
 
@@ -35,6 +35,8 @@ git clone https://github.com/username/repo-name.git
     Create a database named my_db
     
     Import the database schema from the dbdump.sql file
+    
+    Run the backend code with node.js
 
     Start the application:
 
