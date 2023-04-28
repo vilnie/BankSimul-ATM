@@ -1,6 +1,4 @@
-# group_1
-
-<img src="er-diagram.png">
+# BankSimul ATM
 
 
 The ATM Simulator is a software application that enables users to withdraw money. The application is designed to simulate the functions of an ATM machine. The software has been developed using JavaScript to create a REST API, and Qt Creator to create the frontend. The data is stored in a MySQL database that has four tables: card, owner, account, and transactions.
@@ -40,7 +38,7 @@ git clone https://github.com/username/repo-name.git
 
     Run the frontend.exe file in Qt Creator
 
-Usage
+# Usage
 
 To use the ATM Simulator, follow these steps:
 
@@ -52,10 +50,15 @@ To use the ATM Simulator, follow these steps:
     Wait for the transaction to complete
     Wait for automatic log out
 
-Contributing
+# images
+
+<img src="er-diagram.png">
+
+# Contributing
 
 Contributions to the ATM Simulator are welcome. If you find a bug or have a feature request, please open an issue on the GitHub repository.
-License
+
+# License
 
 The ATM Simulator is open-source software licensed under the MIT license. See the LICENSE file for more information.
 
