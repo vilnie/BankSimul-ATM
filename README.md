@@ -26,7 +26,7 @@ git clone https://github.com/username/repo-name.git
 
     MySQL server (Uni Server)
     Qt Creator (QSerial might not work every Qt version)
-    JavaScript
+    IDE for JavaScript code
     Postman/SQLworkbench
     Node.js
 
