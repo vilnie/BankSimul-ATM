@@ -22,7 +22,7 @@ Clone the repository:
 
 git clone https://github.com/username/repo-name.git
 
-    Install the required dependencies:
+    1. Install the required dependencies:
 
     MySQL server (Uni Server)
     Qt Creator (QSerial might not work every Qt version)
@@ -30,15 +30,15 @@ git clone https://github.com/username/repo-name.git
     Postman/SQLworkbench
     Node.js
 
-    Set up the MySQL database:
+    2. Set up the MySQL database:
 
     Create a database named my_db
     
     Import the database schema from the dbdump.sql file
     
-    Run the backend code with node.js
+    3. Run the backend code with node.js
 
-    Start the application:
+    4. Start the application:
 
     Run the frontend.exe file in Qt Creator
 
@@ -46,13 +46,13 @@ git clone https://github.com/username/repo-name.git
 
 To use the ATM Simulator, follow these steps:
 
-    Insert your card into the card reader. You can bypass this by modifying frontend code.
-    Enter your PIN code
-    Select the bank account
-    Select the desired transaction (e.g., withdraw money)
-    Enter the transaction amount
-    Wait for the transaction to complete
-    Wait for automatic log out
+    1. Insert your card into the card reader. You can bypass this by modifying frontend code.
+    2. Enter your PIN code
+    3. Select the bank account
+    4. Select the desired transaction (e.g., withdraw money)
+    5. Enter the transaction amount
+    6. Wait for the transaction to complete
+    7. Wait for automatic log out
 
 # images
 
