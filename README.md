@@ -1,6 +1,6 @@
 # BankSimul ATM
 
-by Ville Niemi, Johannes Päivärinta, Jere Siermala, Janne Pauna, Niko Kokko
+School project by Ville Niemi, Johannes Päivärinta, Jere Siermala, Janne Pauna, Niko Kokko
 
 The ATM Simulator is a software application that enables users to withdraw money. The application is designed to simulate the functions of an ATM machine. The software has been developed using JavaScript to create a REST API, and Qt Creator to create the frontend. The data is stored in a MySQL database that has four tables: omistaja, kortti, tili, and tilitapahtumat.
 
