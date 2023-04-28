@@ -16,6 +16,7 @@ To install the ATM Simulator, follow these steps:
 1.	Clone the repository:
 bash
 git clone https://github.com/username/repo-name.git
+
 2.	Install the required dependencies:
 •	MySQL server (Uni Server)
 •	Qt Creator
@@ -25,6 +26,7 @@ git clone https://github.com/username/repo-name.git
 •	Import the database schema from the database-schema.sql file
 4.	Start the application:
 •	Run the frontend.exe file in Qt Creator
+
 Usage
 To use the ATM Simulator, follow these steps:
 1.	Insert your card into the card reader. If you don’t have one, you can bypass by modifying the frontend code.
@@ -34,8 +36,10 @@ To use the ATM Simulator, follow these steps:
 5.	Make withdraw
 6.	Wait for the transaction to complete
 7.	Wait for automatic log out
+
 Contributing
 Contributions to the ATM Simulator are welcome. If you find a bug or have a feature request, please open an issue on the GitHub repository.
+
 License
 The ATM Simulator is open-source software licensed under the MIT license. See the LICENSE file for more information.
 
