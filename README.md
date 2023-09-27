@@ -66,9 +66,9 @@ State Diagram
 
 Application running
 
-<img src="State login.png">
-<img src="State withdraw.png">
-<img src="State history.png">
+<img src="login.png">
+<img src="withdraw.png">
+<img src="history.png">
 
 # Contributing
 
