@@ -64,6 +64,9 @@ State Diagram
 
 <img src="State Diagram.png">
 
+Application running
+
+<img src="State Diagram.png">
 
 # Contributing
 
