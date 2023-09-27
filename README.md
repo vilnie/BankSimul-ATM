@@ -20,7 +20,7 @@ To install the ATM Simulator, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/vilnie/BankSimul-ATM.git
 
     1. Install the required dependencies:
 
